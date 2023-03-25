@@ -1,4 +1,5 @@
-# DevOps Projects in main branch
+# DevOps Projects for DevOps fundamentals class '23
+
 
 DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 
